@@ -1,3 +1,12 @@
 [submodule "apps/firefox/user.js"]
 	path = apps/firefox/user.js
 	url = https://github.com/arkenfox/user.js
+[submodule "lib/.config/oh-my-zsh/custom/plugins/zsh-autosuggestions"]
+	path = lib/.config/oh-my-zsh/custom/plugins/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions
+[submodule "lib/.config/oh-my-zsh/custom/plugins/fast-syntax-highlighting"]
+	path = lib/.config/oh-my-zsh/custom/plugins/fast-syntax-highlighting
+	url = https://github.com/zdharma-continuum/fast-syntax-highlighting
+[submodule "lib/.config/oh-my-zsh/custom/plugins/zsh-history-substring-search"]
+	path = lib/.config/oh-my-zsh/custom/plugins/zsh-history-substring-search
+	url = https://github.com/zsh-users/zsh-history-substring-search

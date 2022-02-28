@@ -20,17 +20,18 @@ cd apps/firefox
 > **Warning** this will apply a hardened Firefox profile based on [arkenfox's user.js](https://github.com/arkenfox/user.js).
 > Please read the documentation before applying.
 
-### ~/.config
+### Other
 
 ```bash
-stow -t ~/.config .config/
+stow -t ~/ lib/
 ```
 
 **This includes the config(s) for...**
 
 - kitty
+- zsh
 
-## Apps
+## Additional Configurations
 
 ### Firefox
 
@@ -43,3 +44,8 @@ stow -t ~/.config .config/
     - Actually Legitimate URL Shortener Tool
 - Bitwarden
 - Skip Redirect
+
+## Zsh
+
+- Install [oh my zsh](https://ohmyz.sh/)
+- Install `starship`, `grc`, and `fzf`
