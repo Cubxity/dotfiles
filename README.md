@@ -7,7 +7,7 @@
 - **Distro**: Fedora Workstation
 - **Terminal**: kitty
 - **Shell**: zsh
-- **Icon theme**: https://github.com/vinceliuice/Tela-icon-theme
+- **Icon theme**: [Tela](https://github.com/vinceliuice/Tela-icon-theme)
 
 ## Applying
 
