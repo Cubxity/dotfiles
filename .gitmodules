@@ -10,3 +10,6 @@
 [submodule "lib/.config/oh-my-zsh/custom/plugins/zsh-history-substring-search"]
 	path = lib/.config/oh-my-zsh/custom/plugins/zsh-history-substring-search
 	url = https://github.com/zsh-users/zsh-history-substring-search
+[submodule "deps/tela-icon-theme"]
+	path = deps/tela-icon-theme
+	url = https://github.com/vinceliuice/Tela-icon-theme
