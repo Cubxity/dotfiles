@@ -1,0 +1,19 @@
+/* Shrink headerbars */
+headerbar {
+    min-height: 0;
+    padding: 0 2px;
+    background-color: #161616;
+}
+
+/* Disable line below title bar */
+.titlebar {
+    border-width: 0;
+    box-shadow: none;
+}
+
+headerbar entry,
+headerbar spinbutton,
+headerbar button,
+headerbar separator {
+    background-color: transparent;
+}
