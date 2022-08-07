@@ -1,0 +1,14 @@
+k9s:
+  body:
+    bgColor: default
+  frame:
+    title:
+      bgColor: default
+  views:
+    table:
+      bgColor: default
+      header:
+        bgColor: darkslategray
+
+    logs:
+      bgColor: default
